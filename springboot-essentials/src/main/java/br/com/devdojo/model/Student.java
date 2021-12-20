@@ -9,6 +9,7 @@ public class Student {
     private int id;
     private String name;
     public static List<Student> studentList;
+
     static{
         studentRepository();
     }
