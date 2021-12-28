@@ -28,7 +28,7 @@
   </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="d89a4945-953d-496d-bb1b-34c7d420474e">
-      <console name="@localhost" type="STANDARD" schema="" session="Main" />
+      <console name="@localhost" type="STANDARD" schema="" session="Main"><![CDATA[show table status]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
